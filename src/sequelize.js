@@ -1,5 +1,7 @@
 #!/usr/bin/env node
 
+require('coffeescript/register');
+
 import getYArgs from './core/yargs';
 
 const yargs = getYArgs();
