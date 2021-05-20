@@ -1,5 +1,5 @@
 {
-  "name": "@bwin/sequelize-cli-coffee",
+  "name": "@kitchenmate/sequelize-cli-coffee",
   "version": "6.2.0",
   "description": "Forked: The Sequelize CLI (with support for coffeescript)",
   "bin": {
